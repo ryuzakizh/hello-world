@@ -1,7 +1,7 @@
 {
 	"firstName": "Elnura",
   	"lastName": "Zhalieva",
-  	"Age": "19",
+  	"Age": 19,
   	"University": "Ala-Too International University",
   	"Faculty": "Applied Math & Informatics",
   	"studstatus": "junior",
